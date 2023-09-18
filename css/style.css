@@ -46,11 +46,19 @@ border: 1px solid transparent;}
   height:5px;
    border:0; 
    background-color:#f05f40;}
+
+   /* Page headers */
+   .page-header {margin-bottom: 0;
+  border-bottom: 0;
+text-align: center;}
+
+.page-header h2 {margin-top: 0;}
    
    .block-divider--orange{background-color: #f05f40;}
 
    .block-divider--short {
     width: 35px;
+    color: #444;
    }
 
 
